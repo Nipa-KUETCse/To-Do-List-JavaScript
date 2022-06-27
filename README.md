@@ -1,6 +1,3 @@
-# To-Do-LIst-
-To-Do List Template
-
 # To-Do-List Javascript
 
 ###### JavaScript ######
