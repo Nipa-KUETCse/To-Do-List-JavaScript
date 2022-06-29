@@ -11,4 +11,4 @@ cake of standard web technologies, two of which (HTML and CSS) we have covered i
 todo_list.html - Creating Awesome To Do List Template using JavaScript
 
 # Resources
-HOW TO (w3schools.com)
+HOW TO ( [w3schools.com](https://www.w3schools.com/howto/default.asp) )
